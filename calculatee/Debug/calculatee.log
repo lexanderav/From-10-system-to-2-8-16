@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lexanderav\source\repos\calculatee\calculatee\main.cpp(17,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\lexanderav\source\repos\calculatee\calculatee\main.cpp(87,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  calculatee.vcxproj -> C:\Users\lexanderav\source\repos\calculatee\Debug\calculatee.exe
